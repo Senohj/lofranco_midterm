@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Logo](icons/Icon-maskable-512.png)
 
 This project is a starting point for a Flutter application.
 
